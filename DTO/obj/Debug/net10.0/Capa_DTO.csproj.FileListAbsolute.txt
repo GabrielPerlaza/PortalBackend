@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\DTO\bin\Debug\net10.0\Capa_DTO.deps.json
+C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\DTO\bin\Debug\net10.0\Capa_DTO.dll
+C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\DTO\bin\Debug\net10.0\Capa_DTO.pdb
+C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\DTO\bin\Debug\net10.0\Capa_Modelos.dll
+C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\DTO\bin\Debug\net10.0\Capa_Modelos.pdb
+C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\DTO\obj\Debug\net10.0\Capa_DTO.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\DTO\obj\Debug\net10.0\Capa_DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\DTO\obj\Debug\net10.0\Capa_DTO.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\DTO\obj\Debug\net10.0\Capa_DTO.AssemblyInfo.cs
+C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\DTO\obj\Debug\net10.0\Capa_DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\DTO\obj\Debug\net10.0\Capa_DTO.csproj.Up2Date
+C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\DTO\obj\Debug\net10.0\Capa_DTO.dll
+C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\DTO\obj\Debug\net10.0\refint\Capa_DTO.dll
+C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\DTO\obj\Debug\net10.0\Capa_DTO.pdb
+C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\DTO\obj\Debug\net10.0\ref\Capa_DTO.dll

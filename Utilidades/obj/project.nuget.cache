@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "nL0y2Fe3jKc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Documents\\Gabo\\Portal - Landing\\PortalBackend\\Utilidades\\Capa_Utilidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "El paquete \"AutoMapper\" 12.0.1 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
+      "projectPath": "C:\\Users\\User\\Documents\\Gabo\\Portal - Landing\\PortalBackend\\Utilidades\\Capa_Utilidades.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\User\\Documents\\Gabo\\Portal - Landing\\PortalBackend\\Utilidades\\Capa_Utilidades.csproj",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

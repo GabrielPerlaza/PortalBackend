@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Gabo\\Portal - Landing\\PortalBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B49BE7-FB11-4B71-B6F8-08C466DED0E8}|Capa_Negocio\\Capa_Negocio.csproj|c:\\users\\user\\documents\\gabo\\portal - landing\\portalbackend\\capa_negocio\\servicios\\articuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B49BE7-FB11-4B71-B6F8-08C466DED0E8}|Capa_Negocio\\Capa_Negocio.csproj|solutionrelative:capa_negocio\\servicios\\articuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE077FB-D7FB-4DE3-904D-981549BC27E1}|Capa_Datos\\Capa_Datos.csproj|c:\\users\\user\\documents\\gabo\\portal - landing\\portalbackend\\capa_datos\\repositorio\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE077FB-D7FB-4DE3-904D-981549BC27E1}|Capa_Datos\\Capa_Datos.csproj|solutionrelative:capa_datos\\repositorio\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA04841-B378-4767-87D9-2EF43D80E169}|APIPortal\\APIPortal.csproj|c:\\users\\user\\documents\\gabo\\portal - landing\\portalbackend\\apiportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6FA04841-B378-4767-87D9-2EF43D80E169}|APIPortal\\APIPortal.csproj|solutionrelative:apiportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticuloService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Portal - Landing\\PortalBackend\\Capa_Negocio\\Servicios\\ArticuloService.cs",
+              "RelativeDocumentMoniker": "Capa_Negocio\\Servicios\\ArticuloService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Portal - Landing\\PortalBackend\\Capa_Negocio\\Servicios\\ArticuloService.cs",
+              "RelativeToolTip": "Capa_Negocio\\Servicios\\ArticuloService.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAswHEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T23:17:32.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Portal - Landing\\PortalBackend\\APIPortal\\appsettings.json",
+              "RelativeDocumentMoniker": "APIPortal\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Portal - Landing\\PortalBackend\\APIPortal\\appsettings.json",
+              "RelativeToolTip": "APIPortal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-23T22:41:40.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Gabo\\Portal - Landing\\PortalBackend\\Capa_Datos\\Repositorio\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Capa_Datos\\Repositorio\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Gabo\\Portal - Landing\\PortalBackend\\Capa_Datos\\Repositorio\\GenericRepository.cs",
+              "RelativeToolTip": "Capa_Datos\\Repositorio\\GenericRepository.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwDgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T03:54:27.531Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
