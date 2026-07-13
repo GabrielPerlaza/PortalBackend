@@ -17,3 +17,4 @@ C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\Capa_Negocio\obj\Deb
 C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\Capa_Negocio\obj\Debug\net10.0\refint\Capa_Negocio.dll
 C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\Capa_Negocio\obj\Debug\net10.0\Capa_Negocio.pdb
 C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\Capa_Negocio\obj\Debug\net10.0\ref\Capa_Negocio.dll
+C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\Capa_Negocio\obj\Debug\net10.0\Capa_Negocio.sourcelink.json

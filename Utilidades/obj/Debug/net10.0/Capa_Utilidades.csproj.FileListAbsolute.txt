@@ -15,3 +15,4 @@ C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\Utilidades\obj\Debug
 C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\Utilidades\obj\Debug\net10.0\refint\Capa_Utilidades.dll
 C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\Utilidades\obj\Debug\net10.0\Capa_Utilidades.pdb
 C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\Utilidades\obj\Debug\net10.0\ref\Capa_Utilidades.dll
+C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\Utilidades\obj\Debug\net10.0\Capa_Utilidades.sourcelink.json

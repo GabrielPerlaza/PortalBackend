@@ -9,3 +9,4 @@ C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\Modelos\obj\Debug\ne
 C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\Modelos\obj\Debug\net10.0\refint\Capa_Modelos.dll
 C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\Modelos\obj\Debug\net10.0\Capa_Modelos.pdb
 C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\Modelos\obj\Debug\net10.0\ref\Capa_Modelos.dll
+C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\Modelos\obj\Debug\net10.0\Capa_Modelos.sourcelink.json

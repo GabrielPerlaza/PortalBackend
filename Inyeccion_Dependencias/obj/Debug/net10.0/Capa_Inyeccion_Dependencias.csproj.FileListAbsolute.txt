@@ -21,3 +21,4 @@ C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\Inyeccion_Dependenci
 C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\Inyeccion_Dependencias\obj\Debug\net10.0\refint\Capa_Inyeccion_Dependencias.dll
 C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\Inyeccion_Dependencias\obj\Debug\net10.0\Capa_Inyeccion_Dependencias.pdb
 C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\Inyeccion_Dependencias\obj\Debug\net10.0\ref\Capa_Inyeccion_Dependencias.dll
+C:\Users\User\Documents\Gabo\Portal - Landing\PortalBackend\Inyeccion_Dependencias\obj\Debug\net10.0\Capa_Inyeccion_Dependencias.sourcelink.json
