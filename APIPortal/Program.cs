@@ -29,7 +29,7 @@ builder.Services.AddControllers().AddJsonOptions(options =>
 });
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy( policy =>
+    options.AddPolicy( "CORS policy", policy =>
     {
         policy
             .AllowAnyOrigin()
@@ -48,7 +48,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseSwagger();
 app.UseSwaggerUI();
-app.UseCors();
+app.UseCors("CORS policy");
 app.UseAuthorization();
 
 app.MapControllers();
