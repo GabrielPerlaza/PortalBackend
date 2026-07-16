@@ -29,14 +29,13 @@ builder.Services.AddControllers().AddJsonOptions(options =>
 });
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("Angular",
-        policy =>
-        {
-            policy
-                .WithOrigins("http://localhost:4200")
-                .AllowAnyHeader()
-                .AllowAnyMethod();
-        });
+    options.AddPolicy( policy =>
+    {
+        policy
+            .AllowAnyOrigin()
+            .AllowAnyHeader()
+            .AllowAnyMethod();
+    });
 });
 var app = builder.Build();
 
@@ -49,9 +48,10 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseSwagger();
 app.UseSwaggerUI();
-app.UseCors("Angular");
+app.UseCors();
 app.UseAuthorization();
 
 app.MapControllers();
+Console.WriteLine("===== VERSION NUEVA DEL BACKEND =====");
 
 app.Run();
